@@ -1,0 +1,17 @@
+{
+  "name": "practise.js2",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "dina",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "sass": "^1.86.3",
+    "uniqid": "^5.4.0"
+  }
+}
